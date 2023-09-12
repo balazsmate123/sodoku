@@ -1,0 +1,8 @@
+C:\Users\bmáté\source\repos\sodoku\sodoku\obj\Debug\sodoku.csproj.AssemblyReference.cache
+C:\Users\bmáté\source\repos\sodoku\sodoku\obj\Debug\sodoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\bmáté\source\repos\sodoku\sodoku\obj\Debug\sodoku.csproj.CoreCompileInputs.cache
+C:\Users\bmáté\source\repos\sodoku\sodoku\bin\Debug\sodoku.exe.config
+C:\Users\bmáté\source\repos\sodoku\sodoku\bin\Debug\sodoku.exe
+C:\Users\bmáté\source\repos\sodoku\sodoku\bin\Debug\sodoku.pdb
+C:\Users\bmáté\source\repos\sodoku\sodoku\obj\Debug\sodoku.exe
+C:\Users\bmáté\source\repos\sodoku\sodoku\obj\Debug\sodoku.pdb
